@@ -1,0 +1,5 @@
+com\gopal\StudentDAO.class
+com\gopal\AttendanceDAO.class
+com\gopal\DAO.class
+com\gopal\Attendance.class
+com\gopal\Student.class
